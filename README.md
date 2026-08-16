@@ -20,20 +20,31 @@
 <!-- ANIMATED LINE SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🏆 Achievement Unlocked (Live Trophies)
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bbxbiswajit&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Biswajit Trophies" />
-  </a>
-</div>
+### ⚡ Skills
 
-### ⚡ Neural Network (Tech Stack)
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,nodejs,express,mongodb,tailwind,sql,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,nodejs,express,mongodb,tailwind,sql,git,github,vscode&theme=dark&perline=11" alt="Skills" />
   </a>
 </div>
+
+<br/>
+
+<!-- ANIMATED LINE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🌌 Central Architectures
+
+<table bordercolor="#10B981">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🛡️ <a href="https://github.com/bbxbiswajit/fraud-shield-frontend">Fraud Shield</a></h3>
+      <p><b>Real-time Explainable UPI Fraud Engine.</b></p>
+      <p>A dual-persona fintech interface detecting phishing & telemetry anomalies in fast-payment networks with sub-second accuracy.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -53,5 +64,6 @@
 
 <br/>
 
-<!-- ANIMATED LINE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<div align="center">
+  <i><b>Offline Protocols:</b> 🎤 Singing | 🎧 Beatboxing | 🎨 Digital & Pencil Art</i>
+</div>
