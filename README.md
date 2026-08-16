@@ -55,13 +55,3 @@
 
 <!-- ANIMATED LINE SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 🎮 Live Contribution Pac-Man
-<div align="center">
-  <!-- THE PAC-MAN SNAKE WILL APPEAR HERE ONCE YOU RUN THE BOT -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbxbiswajit/bbxbiswajit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbxbiswajit/bbxbiswajit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bbxbiswajit/bbxbiswajit/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
