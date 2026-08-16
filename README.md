@@ -1,88 +1,109 @@
-<!-- DYNAMIC TWINKLING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040D09,100:10B981&height=250&section=header&text=Biswajit%20Moharana&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Creative%20Coder&descAlignY=60&descAlign=50&descSize=20&animation=twinkling" width="100%"/>
-
-<!-- HACKER TERMINAL TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=%3E_Initializing+system...;%3E_Loading+Core+Arsenal...;%3E_Compiling+Data+Structures...;%3E_Access+Granted.+Welcome+to+my+domain." alt="Typing SVG" />
+
+<img src="./assets/header.gif" alt="Animated Biswajit Moharana profile header" width="100%"/>
+
+<br>
+
+### I build things to understand them.
+
+**Computer Science student · Java + JavaScript · DSA · Web Development**
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/bbxbiswajit?style=flat&label=FOLLOWERS&labelColor=0b1814&color=5aa87f)](https://github.com/bbxbiswajit)
+[![Profile views](https://komarev.com/ghpvc/?username=bbxbiswajit&style=flat&label=VISITORS&color=5aa87f)](https://github.com/bbxbiswajit)
+
 </div>
 
-<br/>
+---
 
-<!-- GLOWING SOCIAL BADGES -->
+## `01 / CURRENT STATE`
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│ BUILDING        Fraud Shield — explainable fintech security  │
+│ LEARNING        DSA • Java • JavaScript • full-stack systems  │
+│ EXPLORING       backend architecture • ML • system thinking  │
+│ APPROACH        first principles > memorizing syntax         │
+└───────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/biswajit-moharana-a5354b388"><img src="https://img.shields.io/badge/LinkedIn-040D09?style=for-the-badge&logo=linkedin&logoColor=10B981&border=10B981" alt="LinkedIn" /></a>
-  <a href="mailto:bbxbiswajit@gmail.com"><img src="https://img.shields.io/badge/Email_Me-040D09?style=for-the-badge&logo=gmail&logoColor=10B981&border=10B981" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bbxbiswajit&label=System+Intruders&color=10b981&style=for-the-badge" alt="Profile Views" />
+<img src="./assets/terminal.gif" alt="Animated terminal" width="90%"/>
 </div>
 
-<br/>
+---
 
-<!-- ANIMATED LINE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+## `02 / WHAT I WORK WITH`
 
-### ⚡ Skills & Arsenal
+| Core | Web | Tools |
+|:---|:---|:---|
+| Java · JavaScript | HTML · CSS | Git · GitHub · VS Code |
+| Arrays · Strings · DSA | Node.js · Express | IntelliJ IDEA |
+| OOP · Recursion | MongoDB · SQL | Linux / Windows |
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🚀 Core Proficiencies</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,java,html,css&theme=dark" alt="Core Languages" />
-      </a>
-      <p><sub>JavaScript • Java • HTML5 • CSS3</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🌱 Currently Learning</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,nodejs,express,mongodb,tailwind,sql&theme=dark" alt="Currently Learning" />
-      </a>
-      <p><sub>Python • Node.js • Express<br>MongoDB • Tailwind • SQL</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🛠️ Tools & Workflow</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-      </a>
-      <p><sub>Git • GitHub • VS Code</sub></p>
-    </td>
-  </tr>
-</table>
+### `currently learning`
+**Java + DSA → deeper JavaScript → full-stack development → CS fundamentals**
 
-<br/>
+---
 
-<!-- ANIMATED LINE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+## `03 / FEATURED BUILDS`
 
-### 🌌 Central Architectures
+### 🛡️ Fraud Shield
+**Explainable real-time fraud protection for UPI-style payments.**
 
-<table bordercolor="#10B981" width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🛡️ <a href="https://github.com/bbxbiswajit/fraud-shield-frontend">Fraud Shield</a></h3>
-      <p><b>Real-time Explainable UPI Fraud Engine.</b></p>
-      <p>A dual-persona fintech interface detecting phishing & telemetry anomalies in fast-payment networks with sub-second accuracy.</p>
-    </td>
-  </tr>
-</table>
+Risk scoring · behavioural signals · device/location checks · social-engineering indicators · explainable decisions.
 
-<br/>
+> **Goal:** make a security system understandable to the person it protects.
 
-<!-- ANIMATED LINE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+[View project →](https://github.com/bbxbiswajit/fraud-shield-frontend)
 
-### 📊 System Telemetry & Activity
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxbiswajit&bg_color=040D09&color=10B981&line=34D399&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbxbiswajit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040D09&title_color=34D399&icon_color=10B981&text_color=CBD5E1" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxbiswajit&layout=compact&theme=tokyonight&hide_border=true&bg_color=040D09&title_color=34D399&icon_color=10B981&text_color=CBD5E1" width="49%" alt="Top Languages" />
-</div>
+## `04 / ENGINEERING MINDSET`
 
-<br/>
+> I don't want to merely know **how** something works.  
+> I want to know **why** it works.
+
+That means:
+
+- understanding fundamentals before frameworks
+- solving problems before searching for solutions
+- building projects that force me to learn
+- writing code I can explain, not just code that runs
+
+---
+
+## `05 / THE ROAD AHEAD`
+
+```text
+2026
+│
+├── DSA / Competitive Programming
+├── Java deeply
+├── Modern Web Development
+├── Backend + APIs
+├── Computer Science fundamentals
+└── Build → break → understand → rebuild
+```
+
+---
+
+## `06 / CONNECT`
 
 <div align="center">
-  <i><b>Offline Protocols:</b> 🎤 Singing | 🎧 Beatboxing | 🎨 Digital & Pencil Art</i>
+
+<a href="https://github.com/bbxbiswajit">
+<img src="https://img.shields.io/badge/GitHub-0b1814?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-0b1814?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+</a>
+
+<br><br>
+
+**Thanks for stopping by.**
+
+<i>Keep building. Keep questioning.</i>
+
 </div>
